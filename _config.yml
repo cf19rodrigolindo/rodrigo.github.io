@@ -1,4 +1,4 @@
-baseURL = "https://rodrigo.github.io/"
+baseURL = "hugo-theme-casper"
 languageCode = "en-us"
 title = "El meu Blog"
 theme = "hugo-theme-casper"
