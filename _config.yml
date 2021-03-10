@@ -2,7 +2,6 @@ baseURL = https://rodrigo.github.io/
 languageCode = "en-us"
 title = "El meu Blog"
 theme = "hugo-theme-casper"
-publishDir = "docs"
 paginate = 2
 canonifyurls = true
 [params]
